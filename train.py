@@ -7,7 +7,7 @@ from datasets import PascalVOCDataset
 from utils import *
 
 # Data parameters
-data_folder = '/content/data/output/'  # folder with data files
+data_folder = '/content/VOCdevkit/output/'  # folder with data files
 keep_difficult = True  # use objects considered difficult to detect?
 
 # Model parameters
